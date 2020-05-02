@@ -1,0 +1,5 @@
+phone_country=+91
+phone_number=1234567890
+
+phone_code=09876543
+

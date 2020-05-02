@@ -1,0 +1,17 @@
+redirect_after_login=/explore
+remember_me=1
+authenticity_token=
+wfa=1
+ui_metrics={
+phone_or_email=1234567890
+password=qwertyuio
+
+authenticity_token=
+challenge_id=
+user_id=
+challenge_type=Sms
+platform=web
+redirect_after_login=/
+remember_me=true
+challenge_response=12345789
+
