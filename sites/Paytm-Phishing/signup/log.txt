@@ -1,0 +1,12 @@
++++log++
+csrfToken=b2e58d7e-a843-5bba-916c-0f2a0af14fa4
+mobileNumber=2345678987
+fakeusernameremembered=
+fakepasswordremembered=
+loginPassword=asdfghjklpoiuytrewqqasxdfg
+email=
+signupBtn=
+
+otp=23456t
+signUpCLick2=
+
