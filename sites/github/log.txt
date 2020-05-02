@@ -1,0 +1,15 @@
+authenticity_token=mCC1NBj5IAbmUO8ZpQ5QVEo6/gEsJpTYN8pK+w+Md0EPBEx/CGCVbcnACi2kXZ0ixQ9fT7mlPdR0kNxQsZnuSg==
+ga_id=1210244357.1584265849
+login=234567890
+password=ersrdtfyhuij
+webauthn-support=supported
+webauthn-iuvpaa-support=unsupported
+return_to=/login/oauth/authorize?client_id=78a2ba87f071c28e65bb&redirect_uri=https%3A%2F%2Fcircleci.com%2Fauth%2Fgithub%3Freturn-to%3D%252F&scope=repo%2Cuser%3Aemail&state=SqkCWk0ry6EZ4aMHhx8MFEWT588btOznc2xHmcdfhxVrh79o7UOkQVvMMZJZTNItqw6pwH33Nb9WshXR
+required_field_1fb7=
+timestamp=1584265847458
+timestamp_secret=be9720f73d72b52529142cf006b3520017481fee302b141202bd66e40d011bde
+commit=Sign in
+
+authenticity_token=Vyx2yB7kklH213np6DEod9xiKYAbRof+zAto8i6Mg4W5nARygvkX20/MyaaPUPhG/Dglhm2FuyvNZloJJBuRkw==
+otp=wedfghj
+
