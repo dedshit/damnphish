@@ -86,7 +86,10 @@ When victim enter his credentials, you need to go to original website and use th
 
 # Whats New:-
 
-@ ngrok token is not needed 
-@ root not needed
-@ everyshit is fixed 
-@ paytm signup site is broken so, ask owner of this script
+1. ngrok token is not needed
+
+2. root not needed
+
+3. everyshit is fixed
+
+4. paytm signup site is broken so, ask owner of this script
