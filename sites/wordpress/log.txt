@@ -1,0 +1,6 @@
+log=123456789
+pwd=98765432
+wp-submit=Log In
+redirect_to=https://www.google.com-admin/
+testcookie=1
+
