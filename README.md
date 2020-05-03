@@ -1,24 +1,3 @@
-<p align="right">
-  <a><img title="Built With Love" src="https://forthebadge.com/images/badges/uses-html.svg" ></a>
- </p>
-
-![20200316_174935_0000](https://user-images.githubusercontent.com/55870659/79133536-08bb1700-7d61-11ea-84a0-8e7fcbb70392.png)
-<p align="center">
-<a href="https://github.com/Ignitetch/AdvPhishing/releases"><img title="GitHub version" src="https://img.shields.io/badge/version-2.0-blue" ></a>  
-</p>
-
-<p align="center">
-  <b> Follow on Social Media Platforms </b>
-</p>
-<p align="center">
-<a href="https://www.facebook.com/profile.php?id=100016971998117"><img title="GitHub version" src="https://img.shields.io/badge/-Facebook-blue" ></a> <a href="https://www.youtube.com/channel/UCfBDWui9dSRbCmT32jf848Q"><img title="GitHub version" src="https://img.shields.io/badge/-youtube-red" ></a> <a href="https://www.linkedin.com/in/shubham-goyal-sgpro"><img title="GitHub version" src="https://img.shields.io/badge/-Linkedin-green" ></a>
-</p>
-<p align="center">
-  <b> Never contribute to this shit </b>
-</p>
-<p align="center">
-<a href="https://www.paypal.com/paypalme2/Goyal827"><img title="GitHub version" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
-</p>
 
 # Here is Best Tutorial with Good Explaination
 Link - https://secnhack.in/advphishing-otp-bypass-phishing-tool/
