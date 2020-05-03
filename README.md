@@ -44,12 +44,12 @@ When victim enter his credentials, you need to go to original website and use th
 
 
 # INSTALLATION [ TERMUX ]:-
-* cd advphish
+* cd damnphish
 * chmod 777 start.sh
 * ./start.sh
 
 # INSTALLATION [ KALI ]:-
-* cd advphish
+* cd damnphish
 * chmod 777 kali_setup.sh
 * ./kali_setup.sh
 
